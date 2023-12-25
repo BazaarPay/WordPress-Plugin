@@ -1,0 +1,1 @@
+# BazaarPay WordPress Plugin
